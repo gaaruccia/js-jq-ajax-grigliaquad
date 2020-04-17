@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.row{
+  display: flex;
+}
+.quadrati{
+  height: 50px;
+  width: 70px;
+  border: 1px black solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.giallo{
+  background-color: yellow;
+}
+.verde{
+  background-color: green;
+}
